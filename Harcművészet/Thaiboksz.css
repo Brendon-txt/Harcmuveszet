@@ -71,3 +71,11 @@ footer {
     background-color: gray;
     border-top: 3px black dotted;
 }
+
+#Technika {
+    margin-left: 10%;
+    color: white;
+    background-color: black;
+    width: 500px;
+    border: solid white 2px;
+}
