@@ -68,3 +68,6 @@ footer {
     background-color: gray;
     border-top: 3px black dotted;
 }
+table {
+    background-color: #FF0000;    
+}
