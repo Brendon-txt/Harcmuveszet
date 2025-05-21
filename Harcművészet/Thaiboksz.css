@@ -78,7 +78,6 @@ footer {
     background-color: black;
     width: 500px;
     border: solid white 2px;
-<<<<<<< HEAD
 }
 
 span {
@@ -99,7 +98,7 @@ strong {
 }
 
 #Szabalyok {
-    margin-left: 10%;
+    margin-left: 5%;
     color: white;
     background-color: black;
     width: 1000px;
@@ -107,6 +106,4 @@ strong {
     overflow-y: scroll;
     overflow-x: hidden;
     height: 350px;
-=======
->>>>>>> 871bcee8730c531f023885f7a8ba231f9f41e8fd
 }
