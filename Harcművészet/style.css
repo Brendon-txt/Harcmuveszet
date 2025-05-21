@@ -95,8 +95,16 @@ strong {
         text-align: center;
     }
 
+    h2 {
+        font-size: 40px;
+    }
+
+    h4 {
+        font-size: 30px;
+    }
+
     p, #Szöveg {
-        font-size: 16px;
+        font-size: 25px;
         margin: 0 1rem;
         text-align: justify;
     }
@@ -125,6 +133,7 @@ strong {
         font-size: 14px;
         height: auto;
         padding: 1rem;
+        width: 100%;
     }
 
     strong {
@@ -150,7 +159,7 @@ strong {
         padding: 1rem;
         background-color: gray;
         border: 2px solid black;
-        height: 2500px;
+        height: 4400px;
     }
     
     table {
@@ -159,7 +168,16 @@ strong {
     }
 
     #nev {
-        font-size: 12px;
+        font-size: 18px;
+    }
+
+    img {
+        height: 400px;
+        width: 400px;
+    }
+
+    #tipp {
+        font-size: 40px;
     }
 
 }
